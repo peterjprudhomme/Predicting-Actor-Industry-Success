@@ -1,4 +1,4 @@
-# Predicting Actore Future Success in the Industry
+# Predicting Actors Future Success in the Industry
 
 This project is based around a single question: **Can you predict an actor's industry success based on the films they appear in early in their career?**. It would be benificial to be able to advise actor's new to the industry on what type of jobs to look for to maximize their potential for success.
 
